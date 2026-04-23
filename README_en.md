@@ -3,9 +3,8 @@
   <p><b>Build a private podcast vault under your absolute control, breaking free from platform restrictions.</b></p>
   <p>One-click batch download and AI-powered extraction turn your favorite Xiaoyuzhou podcasts into your true personal knowledge assets.</p>
 
-  [![Release](https://img.shields.io/github/v/release/your-username/xyz-podcast-downloader-releases?label=Latest&color=blue)](../../releases/latest)
+  [![Release](https://img.shields.io/github/v/release/GavinCnod/xyz-podcast-downloader-releases?label=Latest&color=blue)](../../releases/latest)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey)](#)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
   
   [**🇨🇳 中文**](./README.md) | [**🇬🇧 English**](./README_en.md)
 </div>

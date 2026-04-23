@@ -3,9 +3,8 @@
   <p><b>构建你绝对掌控的私人播客金库，告别平台的封闭限制。</b></p>
   <p>一键批量下载、AI智能提取，让每一期喜爱的小宇宙播客真正沉淀为你自己的知识资产。</p>
 
-[![Release](https://img.shields.io/github/v/release/your-username/xyz-podcast-downloader-releases?label=最新版本\&color=blue)](../../releases/latest)
+[![Release](https://img.shields.io/github/v/release/GavinCnod/xyz-podcast-downloader-releases?label=最新版本\&color=blue)](../../releases/latest)
 [![Platform](https://img.shields.io/badge/平台-Windows%20%7C%20macOS-lightgrey)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
 
 **[🇨🇳 中文](./README.md)** | **[🇬🇧 English](./README_en.md)**
 
