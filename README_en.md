@@ -42,6 +42,8 @@ If you are a heavy podcast listener, you might have experienced these frustratin
 
 We feel your pain, which is exactly why we built this tool.
 
+> **Friendly reminder**: If you only need to download a single podcast episode, the easiest way is to use our online download tool (https://xyzdownloader.xyz), which is highly praised by users on Xiaohongshu (RED).
+
 ---
 
 ## ✨ Core Features & User Value (Solutions)
