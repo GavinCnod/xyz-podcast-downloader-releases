@@ -110,14 +110,25 @@ We are dedicated to upgrading this tool from a "downloader" to a "podcast knowle
 
 For a complete update history, please check the [Releases](../../releases) page.
 
-### [v0.5.8-beta 1c] - Latest
-- ✨ **New**: Introduced a brand-new one-click batch download engine, significantly improving speed.
-- 🐛 **Fix**: Resolved an issue where saving podcasts with long titles caused path errors in Windows.
-- **Optimization**: Improved startup speed for macOS M-series chips.
+### \[v0.5.11-beta 1c] - Latest
 
-### [v0.5.7-beta] 
-- ✨ **New**: Initially introduced automatic podcast metadata organization (covers, descriptions).
-- **Optimization**: Improved resume logic during network fluctuations.
+- **Fix**: Passed Apple Developer Code Signing certification. Say goodbye to macOS "damaged" warnings and enjoy a smoother installation experience!
+
+### \[v0.5.10-beta 1c]
+
+- **Fix**: Fixed the "System Settings" module functionality.
+- **Optimization**: Improved logging functionality and completed multi-language texts.
+
+### \[v0.5.8-beta 1c]
+
+- **New**: Refactored the one-click batch download engine, significantly improving speed.
+- **Fix**: Resolved an issue where saving podcasts with long titles caused path errors in Windows.
+- **Optimization**: Improved compatibility with macOS M-series chips.
+
+### \[v0.5.5-beta 1c]
+
+- Public beta version of basic features.
+- Supports batch downloading of podcast series/single episodes, and basic operations like play/pause/seek.
 
 ---
 
