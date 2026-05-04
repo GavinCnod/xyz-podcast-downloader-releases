@@ -1,5 +1,6 @@
 <div align="center">
   <h1>🎧 增强版下载器 - 小宇宙播客下载器<br>(XYZ Podcast Downloader)</h1>
+  <img src="resources/icon.png" alt="XYZ Podcast Downloader" width="160">
   <p><b>构建你绝对掌控的私人播客金库，告别平台的封闭限制。</b></p>
   <p>一键批量下载、AI智能提取，让每一期喜爱的小宇宙播客真正沉淀为你自己的知识资产。</p>
 

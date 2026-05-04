@@ -1,5 +1,6 @@
 <div align="center">
   <h1>🎧 Enhanced Downloader - Xiaoyuzhou Podcast Downloader<br>(XYZ Podcast Downloader)</h1>
+  <img src="resources/icon.png" alt="XYZ Podcast Downloader" width="160">
   <p><b>Build a private podcast vault under your absolute control, breaking free from platform restrictions.</b></p>
   <p>One-click batch download and AI-powered extraction turn your favorite Xiaoyuzhou podcasts into your true personal knowledge assets.</p>
 
