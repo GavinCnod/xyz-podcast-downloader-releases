@@ -25,8 +25,13 @@
 - [📥 Download \& Installation](#-download--installation)
 - [🗺️ Development Roadmap](#️-development-roadmap)
 - [📝 Changelog](#-changelog)
-  - [\[v0.5.8-beta 1c\] - Latest](#v058-beta-1c---latest)
-  - [\[v0.5.7-beta\]](#v057-beta)
+  - [\[v0.6.2-beta 1d\] - Latest](#v062-beta-1d---latest)
+  - [\[v0.6.1-beta 1d\]](#v061-beta-1d)
+  - [\[v0.6.0-beta 1d\]](#v060-beta-1d)
+  - [\[v0.5.11-beta 1c\]](#v0511-beta-1c)
+  - [\[v0.5.10-beta 1c\]](#v0510-beta-1c)
+  - [\[v0.5.8-beta 1c\]](#v058-beta-1c)
+  - [\[v0.5.5-beta 1c\]](#v055-beta-1c)
 - [💬 Feedback \& Contact](#-feedback--contact)
 
 ---
@@ -79,7 +84,7 @@ Currently supported platforms:
 - 🍎 **Mac (Apple M-series .dmg)** - Deeply optimized for Apple Silicon
 - 🍏 **Mac (Intel .dmg)** - Compatible with older Mac devices
 
-👉 **[Click here to get the latest version (v0.5.8-beta 1c) 🚀](../../releases/latest)**
+👉 **[Click here to get the latest version (v0.6.2-beta 1d) 🚀](../../releases/latest)**
 
 ---
 
@@ -110,7 +115,19 @@ We are dedicated to upgrading this tool from a "downloader" to a "podcast knowle
 
 For a complete update history, please check the [Releases](../../releases) page.
 
-### \[v0.5.11-beta 1c] - Latest
+### \[v0.6.2-beta 1d] - Latest
+
+- **Optimization**: Added a more professional and elegant icon to give the app a more polished look.
+
+### \[v0.6.1-beta 1d]
+
+- **Optimization**: Improved search interaction, player accessibility, and internationalization support.
+
+### \[v0.6.0-beta 1d]
+
+- **Optimization**: Redesigned the podcast subscription page and episode details page to be more user-friendly and intuitive. Optimized the download function for a smoother experience.
+
+### \[v0.5.11-beta 1c]
 
 - **Fix**: Passed Apple Developer Code Signing certification. Say goodbye to macOS "damaged" warnings and enjoy a smoother installation experience!
 
