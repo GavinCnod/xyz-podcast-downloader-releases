@@ -26,7 +26,10 @@
 - [📥 Download \& Installation](#-download--installation)
 - [🗺️ Development Roadmap](#️-development-roadmap)
 - [📝 Changelog](#-changelog)
-  - [\[v0.6.2-beta 1d\] - Latest](#v062-beta-1d---latest)
+  - [\[v0.6.5-beta 1d\] - Latest](#v065-beta-1d---latest)
+  - [\[v0.6.4-beta 1d\]](#v064-beta-1d)
+  - [\[v0.6.3-beta 1d\]](#v063-beta-1d)
+  - [\[v0.6.2-beta 1d\]](#v062-beta-1d)
   - [\[v0.6.1-beta 1d\]](#v061-beta-1d)
   - [\[v0.6.0-beta 1d\]](#v060-beta-1d)
   - [\[v0.5.11-beta 1c\]](#v0511-beta-1c)
@@ -85,7 +88,7 @@ Currently supported platforms:
 - 🍎 **Mac (Apple M-series .dmg)** - Deeply optimized for Apple Silicon
 - 🍏 **Mac (Intel .dmg)** - Compatible with older Mac devices
 
-👉 **[Click here to get the latest version (v0.6.2-beta 1d) 🚀](../../releases/latest)**
+👉 **[Click here to get the latest version (v0.6.5-beta 1d) 🚀](../../releases/latest)**
 
 ---
 
@@ -116,7 +119,25 @@ We are dedicated to upgrading this tool from a "downloader" to a "podcast knowle
 
 For a complete update history, please check the [Releases](../../releases) page.
 
-### \[v0.6.2-beta 1d] - Latest
+### \[v0.6.5-beta 1d] - Latest
+
+- **New**: Added parallel transfer limits, download resume with integrity verification, optimizing the download management experience.
+- **Optimization**: Split network timeout configuration into resolution timeout + download timeout, improving transfer experience under unstable network conditions.
+- **Optimization**: Refactored download backend logic, added automatic recovery of incomplete downloads upon restart after abnormal shutdown.
+- **Optimization**: Optimized download management page: supports search by filename/episode title, displays local filenames and storage statistics, added resume/integrity status badges, improved error task feedback and recommended actions.
+
+### \[v0.6.4-beta 1d]
+
+- **Optimization**: Optimized download management page: displays local filenames, supports search by filename and episode title, updated storage statistics display.
+- **Fix**: Improved download backend logic, fixed retry task flow and added unit tests for filename handling.
+
+### \[v0.6.3-beta 1d]
+
+- **Optimization**: Updated app icon to comply with latest design specifications, optimized display on macOS.
+- **Optimization**: Unified search-related UI layout adjustments, fixed search box padding, icon layering and interaction states.
+- **Optimization**: Implemented cross-platform safe automatic filename generation for download tasks, based on episode info, publish date and ID.
+
+### \[v0.6.2-beta 1d]
 
 - **Optimization**: Added a more professional and elegant icon to give the app a more polished look.
 
